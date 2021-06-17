@@ -1,0 +1,9 @@
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Entities\bin\Debug\netcoreapp3.1\WebApplication.Entities.deps.json
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Entities\bin\Debug\netcoreapp3.1\WebApplication.Entities.dll
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Entities\bin\Debug\netcoreapp3.1\WebApplication.Entities.pdb
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Entities\obj\Debug\netcoreapp3.1\WebApplication.Entities.csprojAssemblyReference.cache
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Entities\obj\Debug\netcoreapp3.1\WebApplication.Entities.AssemblyInfoInputs.cache
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Entities\obj\Debug\netcoreapp3.1\WebApplication.Entities.AssemblyInfo.cs
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Entities\obj\Debug\netcoreapp3.1\WebApplication.Entities.csproj.CoreCompileInputs.cache
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Entities\obj\Debug\netcoreapp3.1\WebApplication.Entities.dll
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Entities\obj\Debug\netcoreapp3.1\WebApplication.Entities.pdb

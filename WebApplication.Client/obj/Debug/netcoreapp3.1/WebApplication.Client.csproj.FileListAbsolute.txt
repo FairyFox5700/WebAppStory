@@ -1,0 +1,17 @@
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Client\bin\Debug\netcoreapp3.1\WebApplication.Client.exe
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Client\bin\Debug\netcoreapp3.1\WebApplication.Client.deps.json
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Client\bin\Debug\netcoreapp3.1\WebApplication.Client.runtimeconfig.json
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Client\bin\Debug\netcoreapp3.1\WebApplication.Client.runtimeconfig.dev.json
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Client\bin\Debug\netcoreapp3.1\WebApplication.Client.dll
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Client\bin\Debug\netcoreapp3.1\WebApplication.Client.pdb
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Client\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Client\bin\Debug\netcoreapp3.1\WebApplication.Entities.dll
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Client\bin\Debug\netcoreapp3.1\WebApplication.Entities.pdb
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Client\obj\Debug\netcoreapp3.1\WebApplication.Client.csprojAssemblyReference.cache
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Client\obj\Debug\netcoreapp3.1\WebApplication.Client.AssemblyInfoInputs.cache
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Client\obj\Debug\netcoreapp3.1\WebApplication.Client.AssemblyInfo.cs
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Client\obj\Debug\netcoreapp3.1\WebApplication.Client.csproj.CoreCompileInputs.cache
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Client\obj\Debug\netcoreapp3.1\WebApplication.Client.csproj.CopyComplete
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Client\obj\Debug\netcoreapp3.1\WebApplication.Client.dll
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Client\obj\Debug\netcoreapp3.1\WebApplication.Client.pdb
+D:\Предмети\MyProject\ProjectMvc\WebAppStory\WebApplication.Client\obj\Debug\netcoreapp3.1\WebApplication.Client.genruntimeconfig.cache
